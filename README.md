@@ -10,7 +10,7 @@ The project was built as a client facing **"State of AI Hiring"** analysis for H
 The analysis uses the **AI Job Market Global 2026** dataset, which contains real AI job postings with information on skills, salaries, locations, experience levels and roles.
 
 ---
-![AI Jobs Market Intelligence Dashboard](images/Screenshot 2026-08-20 202306.png)
+![AI Jobs Market Intelligence Dashboard](images/dashboard.png)
 
 ## Business Problem
 
